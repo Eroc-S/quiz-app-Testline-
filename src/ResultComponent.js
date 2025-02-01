@@ -14,3 +14,4 @@ const ResultComponent = ({ score, total, onResetQuiz, studentName }) => {
 };
 
 export default ResultComponent;
+
