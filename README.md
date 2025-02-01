@@ -14,10 +14,10 @@ This is a simple quiz application built with React. Users can answer questions, 
    ```bash
    git clone https://github.com/yourusername/quiz-app.git
    cd quiz-app 
-#install dependencies 
-npm install
+# install dependencies 
+- npm install
  
-##run the app
+## run the app
  ```bash
 npm start 
 
