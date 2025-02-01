@@ -3,10 +3,10 @@
 
 ## Demo Video
 
-You can watch the demo video directly below:
+Watch the demo video below:
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/Eroc-S/quiz-app-Testline/main/quiz-app.mov?raw=true" type="video/mp4">
+<video width="640" height="360" controls>
+  <source src="https://github.com/Eroc-S/quiz-app-Testline-/quiz-app.mov?raw=true" type="video/quicktime">
   Your browser does not support the video tag.
 </video>
 
