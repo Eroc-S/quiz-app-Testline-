@@ -1,5 +1,16 @@
 # Quiz App
 
+
+## Demo Video
+
+You can watch the demo video directly below:
+
+<video width="320" height="240" controls>
+  <source src="https://github.com/Eroc-S/quiz-app-Testline/main/quiz-app.mov?raw=true" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Overview
 This is a simple quiz application built with React. Users can answer questions, track their score, and view a leaderboard.
 
