@@ -15,9 +15,12 @@ This is a simple quiz application built with React. Users can answer questions, 
    git clone https://github.com/yourusername/quiz-app.git
    cd quiz-app
 #install dependencies 
+ ```bash
 npm install 
 
-# run the app 
+
+# run the app
+ ```bash
 npm start 
 
 #Visit http://localhost:3000 in your browser.
