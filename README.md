@@ -1,6 +1,7 @@
 ## ScreenShots 
 
-![Alt text](images/Screenshot 2025-02-01 at 10.21.47 AM.png)
+![Alt text](quiz-app-Testline-/images
+/Screenshot 2025-02-01 at 10.21.47 AM.png)
 ![Alt text](images/Screenshot 2025-02-01 at 10.22.20 AM.png)
 
 
