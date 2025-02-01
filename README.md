@@ -1,6 +1,6 @@
 
-
-[![Watch the video](quiz-app.mov)
+- **Video**:
+  its in the quiz-app.mov
 - **Screenshots**:
 - its in the images folder 
 
