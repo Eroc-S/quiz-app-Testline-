@@ -2,7 +2,7 @@
 - **Video**:
   its in the quiz-app.mov
 - **Screenshots**:
-- its in the images folder 
+ its in the images folder 
 
 
 ## Overview
